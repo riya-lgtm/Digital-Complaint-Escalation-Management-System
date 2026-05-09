@@ -1,7 +1,7 @@
 # Resolutix — Project Plan
 
 ## Project Overview
-**Resolutix** is an end-to-end complaint escalation and resolution platform featuring a premium animated landing page, role-based dashboards, and a dual Node.js + Java Spring Boot backend, all connected to MongoDB.
+**Resolutix** is an end-to-end complaint escalation and resolution platform featuring a premium animated landing page, role-based dashboards, and a dual Node.js + Java Spring Boot backend, all connected to MongoDB. - Made by [Riya]
 
 ---
 
